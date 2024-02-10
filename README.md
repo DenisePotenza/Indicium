@@ -23,15 +23,15 @@ As seguintes variáveis devem ser inseridas no modelo em formato de dicionário:
 Arquivo de requisitos com todos os pacotes utilizados e suas versões
 Requisitos de uso:
 <table>
-    <th>python</th><td> 3.9.2</td>
-    <th>numpy</th><td> 1.25.2</td>
-    <th>pandas</th><td> 2.1.4</td>
-    <th>json</th><td> 0.9.14</td>
-    <th>collections </th><td> nativa do python</td>
-    <th>wordcloud </th><td> 1.9.3</td>
-    <th>matplotlib</th><td> 3.8.2</td>
-    <th>seaborn</th><td> 0.13.2</td>
-    <th>sklearn</th><td> 1.4.0</td>
-    <th>pickle</th><td> nativa do python</td>
+    <tr><th>python</th><td> v-3.9.2</td></th></tr>
+    <tr><th>numpy</th><td> v-1.25.2</td></tr>
+    <tr><th>pandas</th><td> v-2.1.4</td></tr>
+    <tr><th>json</th><td> v-0.9.14</td></tr>
+    <tr><th>collections </th><td> nativa do python</td></tr>
+    <tr><th>wordcloud </th><td> v-1.9.3</td></tr>
+    <tr><th>matplotlib</th><td> v-3.8.2</td></tr>
+    <tr><th>seaborn</th><td> v-0.13.2</td></tr>
+    <tr><th>sklearn</th><td> v-1.4.0</td></tr>
+    <tr><th>pickle</th><td> nativa do python</td></tr>
 </table>
 
